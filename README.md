@@ -8,8 +8,10 @@ This application use additional library from NewtonSoft JSON Net
   Set Menu as First Form
 # How to Add JSON Net Library for VB Net 2010
   {Download the Library, extract to a folder}
+  
   Use menu > Project > Add reference > Browse -> search : Newtonsoft.Json.dll > OK
 # How to Add JSON Net Library for Vb Net 2015
   {should be online}
+  
   Tools > NuGet Package Manager > Package Manager Console >
   PM> Install-Package Newtonsoft.Json
