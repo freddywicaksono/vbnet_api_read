@@ -13,12 +13,7 @@
         
     End Sub
 
-    Private Function CreateToken()
-        Dim x As String
-        Dim dateAsString = DateTime.Now.ToString("yyyy-MM-dd")
-        x = getMD5Hash("UMC.AC.ID" & dateAsString)
-        Return x
-    End Function
+    
 
    
 

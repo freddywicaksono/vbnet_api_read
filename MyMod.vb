@@ -6,7 +6,12 @@ Imports System.IO
 
 Module MyMod
     Public oEmployee As New Employee
-
+    Public Function CreateToken()
+        Dim x As String
+        Dim dateAsString = DateTime.Now.ToString("yyyy-MM-dd")
+        x = getMD5Hash("UMC.AC.ID" & dateAsString)
+        Return x
+    End Function
     Public Function WRequest(ByVal URL As String, ByVal method As String, ByVal POSTdata As String) As String
         Dim responseData As String = ""
         Try
