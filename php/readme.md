@@ -1,5 +1,5 @@
 # readme
-All files in this folder have to place on a folder name: ujicoba
+All files and folders in this folder have to place on a folder name: ujicoba
 
 Upload ujicoba folder into root folder of the web server,
 
