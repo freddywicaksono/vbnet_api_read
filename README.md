@@ -19,6 +19,8 @@ This application use additional library from NewtonSoft JSON Net
 # API URL
   copy all files from php folder, rename the php folder to ujicoba then move the ujicoba folder to your xampp/htdocs folder
   
+  
+  
   Entry data
   http://localhost/ujicoba/api/create.php
   
@@ -38,3 +40,5 @@ This application use additional library from NewtonSoft JSON Net
    Create a new database, name it ujicoba
    
    Import table employee from employee.sql
+   
+   Edit database.php in php folder to suit your mysql settings
