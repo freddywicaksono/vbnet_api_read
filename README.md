@@ -17,6 +17,8 @@ This application use additional library from NewtonSoft JSON Net
   PM> Install-Package Newtonsoft.Json
   
 # API URL
+  copy all files from php folder, rename the php folder to ujicoba then move the ujicoba folder to your xampp/htdocs folder
+  
   Entry data
   http://localhost/ujicoba/api/create.php
   
