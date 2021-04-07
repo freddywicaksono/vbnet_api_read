@@ -33,3 +33,8 @@ This application use additional library from NewtonSoft JSON Net
   
   Delete Data
   http://localhost/ujicoba/api/delete.php
+  
+ # MySQL Database
+   Create a new database, name it ujicoba
+   
+   Import table employee from employee.sql
