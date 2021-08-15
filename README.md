@@ -22,19 +22,24 @@ This application use additional library from NewtonSoft JSON Net
   
   
   Entry data
-  http://localhost/ujicoba/api/create.php
+    
+    http://localhost/ujicoba/api/create.php
   
   Read All data From Table
-  http://localhost/ujicoba/api/read.php
+  
+    http://localhost/ujicoba/api/read.php
   
   Read 1 data
-  http://localhost/ujicoba/api/single_read.php
+  
+    http://localhost/ujicoba/api/single_read.php
   
   Update Data
-  http://localhost/ujicoba/api/update.php
+    
+    http://localhost/ujicoba/api/update.php
   
   Delete Data
-  http://localhost/ujicoba/api/delete.php
+  
+    http://localhost/ujicoba/api/delete.php
   
  # MySQL Database
    Create a new database, name it ujicoba
